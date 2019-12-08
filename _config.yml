@@ -85,7 +85,7 @@ deploy:
 # hexo-admin authentification
 admin:
   username: zlykernel
-  password_hash: $2a$10$MQrm971NrUu2OohvKho1i.iH4ptp8DCFnkVHwkNMUN2o0d/sm/1ii
-  secret: JJjQX2SA2qIPIgJJ
+  password_hash: $2a$10$uk.74..wx6eOO4Bf2cz93OlheU8gl/JP09VAEwCUa7CVwWoK2C5n.
+  secret: AlexLin666
   deployCommand: './deploy/deploy_github.sh'
 
