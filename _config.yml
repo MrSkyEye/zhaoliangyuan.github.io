@@ -87,5 +87,7 @@ admin:
   username: zlykernel
   password_hash: $2a$10$uk.74..wx6eOO4Bf2cz93OlheU8gl/JP09VAEwCUa7CVwWoK2C5n.
   secret: AlexLin666
-  deployCommand: './deploy/deploy_github.sh'
+  deployCommand: 'deploy_github.bat'
+  #linux 发布
+  #deployCommand: './deploy/deploy_github.sh'
 
